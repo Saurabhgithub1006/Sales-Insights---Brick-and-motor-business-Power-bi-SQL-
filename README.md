@@ -1,7 +1,7 @@
 Objective :
   * The aim of this project is to analyze the data for Atliq Hardware to uncover insights that can inform business decisions by identifying trends and patterns in       the data.
 
-Result :
+Result :  
   * Generated real life sales insights for consumer goods company using SQL and Power BI.
   * The final dashboard was effective at displaying the sales trends of AtliQ Hardware, allowing the users to understand the data and make informed decisions.
 
