@@ -195,13 +195,13 @@ Revenue peaked in **January 2020 (₹28M)** and declined sharply to approximatel
 ## 🖼️ Dashboard Screenshots
 
 ### Page 1 — Insights
-![Insights Dashboard](screenshots/insights.png)
+![Insights Dashboard](./Insights.png)
 
 ### Page 2 — Profit Analysis
-![Profit Analysis](screenshots/profit_analysis.png)
+![Profit Analysis](./profit_analysis.png)
 
 ### Page 3 — Performance
-![Performance](screenshots/performance.png)
+![Performance](./Performance.png)
 
 ---
 
